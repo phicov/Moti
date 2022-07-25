@@ -18,4 +18,4 @@ Mern:
   ----------------------------------------------------------------------------------------------------------------
   
 # Links:
-<a href="[https://www.w3.org/](https://trello.com/invite/b/rgbIkz1X/a178aa1c51fdbf170e18373ad186ce7a/motivator-project)">Trello</a>
+<a href="https://www.google.com/" target="_blank">Google</a>
