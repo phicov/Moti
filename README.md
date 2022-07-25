@@ -22,4 +22,4 @@ Mern:
 <a href="https://www.linkedin.com/in/philippecovington" target="_blank">LinkedIn</a> ||
 <a href="https://drive.google.com/file/d/1Sryy0JCHMnIV3vFHOqFVinQQVuVa1J_j/view" target="_blank">Entity Relationship Diagram</a> ||
 <a href="https://drive.google.com/file/d/1r-kDc4l6V6Ini3JyTt098-SaRmdc0aSa/view" target="_blank">Hierchary FlowChart</a> ||
-<a href="https://wireframe.cc/rCIiRb" target="_blaank>Wireframe</a>
+<a href="https://wireframe.cc/rCIiRb" target="_blank">Wireframe</a>
