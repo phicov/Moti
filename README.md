@@ -18,6 +18,6 @@ Mern:
   ----------------------------------------------------------------------------------------------------------------
   
 # Links:
-<a href="[https://www.google.com/](https://trello.com/invite/b/rgbIkz1X/a178aa1c51fdbf170e18373ad186ce7a/motivator-project)" target="_blank">Trello</a>
+<a href="[https://www.google.com/](https://trello.com/invite/b/rgbIkz1X/a178aa1c51fdbf170e18373ad186ce7a/motivator-project)" target="_blank">Trello</a> ||
 <a href="www.linkedin.com/in/philippecovington" target="_blank">LinkedIn</a>
 
