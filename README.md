@@ -19,5 +19,6 @@ Mern:
   
 # Links:
 <a href="https://trello.com/invite/b/rgbIkz1X/a178aa1c51fdbf170e18373ad186ce7a/motivator-project" target="_blank">Trello</a> ||
-<a href="https://www.linkedin.com/in/philippecovington" target="_blank">LinkedIn</a>
-
+<a href="https://www.linkedin.com/in/philippecovington" target="_blank">LinkedIn</a> ||
+<a href="https://drive.google.com/file/d/1Sryy0JCHMnIV3vFHOqFVinQQVuVa1J_j/view" target="_blank">Entity Relationship Diagram</a>
+<a href="https://drive.google.com/file/d/1r-kDc4l6V6Ini3JyTt098-SaRmdc0aSa/view" target="_blank">Hierchary FlowChart</a>
