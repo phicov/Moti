@@ -4,10 +4,6 @@ const mongoose = require('mongoose')
 const PORT = 3001
 const { MONGOURI } = require('./Keys')
 
-require('./models/User')
-
-app.use(express.json())
-app.use(require('./routes/Auth'))
 
 
 mongoose.connect(MONGOURI,{
@@ -20,6 +16,16 @@ mongoose.connection.on('connected', () =>{
 mongoose.connection.on('error', (err) =>{
   console.log("err", err)
 })
+
+
+require('./models/User')
+require('./models/Post')
+
+app.use(express.json())
+app.use(require('./routes/Auth'))
+app.use(require('./routes/post'))
+
+
 
 app.get('/',(req,res)=>{
   res.send("Hello world")
