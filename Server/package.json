@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/phicov/Motivator#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.18.1",
     "mongoose": "^6.5.0"
   }
