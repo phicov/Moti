@@ -6,6 +6,7 @@ const { MONGOURI } = require('./Keys')
 
 require('./models/User')
 
+app.use(express.json())
 app.use(require('./routes/Auth'))
 
 
