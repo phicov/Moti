@@ -1,0 +1,23 @@
+{
+  "name": "motivator",
+  "version": "1.0.0",
+  "description": "App that helps people with motivational problems and self-discipline issues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phicov/Motivator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phicov/Motivator/issues"
+  },
+  "homepage": "https://github.com/phicov/Motivator#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0"
+  }
+}
