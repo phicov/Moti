@@ -43,3 +43,13 @@
 .item{
   width:33.33333333%;
 }
+
+.home{
+  margin: 25px auto;
+}
+
+.home-card{
+  max-width: 33.3333333%;
+  margin: 100px auto;
+  height: max-content;
+}
