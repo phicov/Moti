@@ -1,9 +1,10 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const SignIn = () => {
   return(
-      <div>
-      <div class="card">
+    <div className="mycard">
+      <div className="card auth-card z-depth-3 input-field">
         <h2>Moti</h2>
         <input type="text"
         placeholder="email"
@@ -11,11 +12,15 @@ const SignIn = () => {
         <input type="password"
         placeholder="password"
         />
-          <button class="btn waves-effect waves-light">
-          Signin
+          <button className="btn waves-effect waves-light #448aff blue accent-2 hoverable">
+          Sign in
           </button>
+          <p>
+          <Link to="/signup" className="hoverable">Don't have an account?</Link>
+          </p>
+          
       </div>
-      </div>
+    </div>
   );
 }
 
