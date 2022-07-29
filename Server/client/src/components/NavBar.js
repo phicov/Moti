@@ -12,6 +12,7 @@ const NavBar = () =>{
       <li className="anchor hoverable"><Link to="/signin">Sign In</Link ></li>
       <li className="anchor hoverable"><Link to="/signup">Sign Up</Link ></li>
       <li className="anchor hoverable"><Link to="/profile">Profile</Link ></li>
+      <li className="anchor hoverable"><Link to="/create">Create Post</Link ></li>
     </ul>
   </div>
 </nav>

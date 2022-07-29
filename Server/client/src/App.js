@@ -7,6 +7,7 @@ import SignIn from './components/screens/SignIn';
 import Profile from './components/screens/Profile';
 import Quotes from './components/screens/Quotes';
 import SignUp from './components/screens/SignUp';
+import CreatePost from './components/screens/CreatePost';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/profile" element={<Profile />} />
         <Route path="/signup" element={<SignUp />} />
         <Route path="/quotes" element={<Quotes />} />
+        <Route path="/create" element={<CreatePost />} />
       </Routes>
       </BrowserRouter>
   );
