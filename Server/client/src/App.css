@@ -33,3 +33,13 @@
   margin: 10vh auto;
   border-radius: 20px
 }
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item{
+  width:33.33333333%;
+}
